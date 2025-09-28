@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+*.log
+
+# Terraform variables with sensitive data
+*.tfvars
+
+# Ignore .terraform directories
+.terraform/
